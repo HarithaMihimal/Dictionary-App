@@ -23,7 +23,7 @@ The Smart Dictionary Web App is a simple yet powerful tool for looking up defini
 
 ## Setup Instructions
 
-1. Clone the repository: `git clone <repository_url>`
+1. Clone the repository: `git clone https://github.com/HarithaMihimal/Dictionary-App.git`
 2. Open `index.html` in your web browser.
 
 ## Usage
